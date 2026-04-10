@@ -19,6 +19,36 @@
   </url>
 
   <url>
+    <loc>https://crispychicken-ten.vercel.app/breakfast-01.html</loc>
+    <lastmod>2026-04-09</lastmod>
+    <priority>0.7</priority>
+  </url>
+   <url>
+    <loc>https://crispychicken-ten.vercel.app/breakfast-02.html</loc>
+    <lastmod>2026-04-09</lastmod>
+    <priority>0.7</priority>
+  </url>
+   <url>
+    <loc>https://crispychicken-ten.vercel.app/lunch-01.html</loc>
+    <lastmod>2026-04-09</lastmod>
+    <priority>0.7</priority>
+  </url>
+   <url>
+    <loc>https://crispychicken-ten.vercel.app/lunch-02.html</loc>
+    <lastmod>2026-04-09</lastmod>
+    <priority>0.7</priority>
+  </url>
+   <url>
+    <loc>https://crispychicken-ten.vercel.app/dinner-01.html</loc>
+    <lastmod>2026-04-09</lastmod>
+    <priority>0.7</priority>
+  </url>
+   <url>
+    <loc>https://crispychicken-ten.vercel.app/dinner-02.html</loc>
+    <lastmod>2026-04-09</lastmod>
+    <priority>0.7</priority>
+  </url>
+   <url>
     <loc>https://crispychicken-ten.vercel.app/news.html</loc>
     <lastmod>2026-04-09</lastmod>
     <priority>0.7</priority>
