@@ -641,6 +641,26 @@ https://www.tooplate.com/view/2129-crispy-kitchen
         <div></div>
        
         <!-- JAVASCRIPT FILES -->
+         <script>
+  window.chatorder = window.chatorder || function() {
+    (window.chatorder.q = window.chatorder.q || []).push(arguments);
+  };
+
+  chatorder('init', {
+    botId: 'client-d',
+    theme: 'dark'
+  });
+
+  (function(d,s){
+    var js = d.createElement(s);
+    js.src = "https://chatorder.vercel.app/chatbot.js";
+    js.async = true;
+    d.head.appendChild(js);
+  })(document, "script");
+</script>
+
+
+
         <script src="js/jquery.min.js"></script>
         <script src="js/bootstrap.bundle.min.js"></script>
         <script src="js/custom.js"></script>
